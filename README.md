@@ -1,4 +1,4 @@
-# Implemented codes for "Towards Precise and Explainable Hardware Trojan Localization at LUT Level" Accepted by TCAD.
+# Implemented codes for "Towards Precise and Explainable Hardware Trojan Localization at LUT Level" Accepted by IEEE TCAD.
 
 # Language: Python
 
